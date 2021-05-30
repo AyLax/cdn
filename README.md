@@ -1,8 +1,8 @@
 # lynn-cdn
-cdn mirror of lynn
+cdn mirror for lynn
 
 ```
-cdn.jsdelivr.net/gh/@login/@repo[@release-version]/@filepath
+https://cdn.jsdelivr.net/gh/@login/@branch/@media
 
-https://cdn.jsdelivr.net/gh/ayalx/cdn@0.1.0/img/bg/page_bg_dark.jpeg
+https://cdn.jsdelivr.net/gh/aylax/cdn@master/img/bg/moon.jpeg
 ```
