@@ -1,0 +1,27 @@
+.
+├── audio/
+│   ├── 可曾记得爱_饭岛真理.mp3
+│   └── 跨越七海的风_三枝夕夏.mp3
+├── css/
+│   └── md/
+│       └── cursor/
+│           ├── link.cur
+│           ├── pointer.cur
+│           └── text.cur
+├── img/
+│   ├── avatar/
+│   │   ├── kurumi.jpeg
+│   │   └── none.jpeg
+│   ├── bg/
+│   │   ├── page_blue.jpeg
+│   │   ├── page_dark.jpeg
+│   │   ├── page_light.jpeg
+│   │   └── timing.webp
+│   └── qr/
+│       └── none.jpeg
+├── LICENSE
+├── .proj
+├── proj.gen
+└── README.md
+
+8 directories, 16 files
