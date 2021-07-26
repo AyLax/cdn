@@ -10,8 +10,10 @@
 │           └── text.cur
 ├── img/
 │   ├── avatar/
+│   │   ├── helpless.jpeg
 │   │   ├── kurumi.jpeg
-│   │   └── none.jpeg
+│   │   ├── none.jpeg
+│   │   └── wind_runner.png
 │   ├── bg/
 │   │   ├── page_blue.jpeg
 │   │   ├── page_dark.jpeg
@@ -24,4 +26,4 @@
 ├── proj.gen
 └── README.md
 
-8 directories, 16 files
+8 directories, 18 files
