@@ -1,5 +1,5 @@
-# lynn-cdn
-cdn mirror for lynn
+# cdn
+cdn mirror
 
 ```
 https://cdn.jsdelivr.net/gh/@login/@branch/@media
