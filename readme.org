@@ -1,0 +1,25 @@
+#+title: aylax's cdn
+#+email: zhoubye@foxmail.com
+#+author: aylax zhou
+#+language: en
+#+keywords: git cdn readme
+
+The repo used to provide cdn service.
+
+** install
+#+begin_src sh
+  git clone https://github.com/aylax/cdn.git
+#+end_src
+
+** usage
+#+begin_src sh
+# https://cdn.jsdelivr.net/gh/[username]/[repo[@branch]]/[path]
+
+wget https://cdn.jsdelivr.net/gh/aylax/cdn@master/img/avatar/none.jpeg
+#end_src
+
+** refs & thanks
+- [[https://github.com/RichardLitt/standard-readme.git][standard readme]]
+
+** license
+MIT © aylax
