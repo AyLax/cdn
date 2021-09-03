@@ -14,9 +14,8 @@ The repo used to provide cdn service.
 ** usage
 #+begin_src sh
 # https://cdn.jsdelivr.net/gh/[username]/[repo[@branch]]/[path]
-
 wget https://cdn.jsdelivr.net/gh/aylax/cdn@master/img/avatar/none.jpeg
-#end_src
+#+end_src
 
 ** refs & thanks
 - [[https://github.com/RichardLitt/standard-readme.git][standard readme]]
